@@ -1,7 +1,6 @@
-package AVLSAVE;
+package AVL;
 
 public class No {
-
 	private No esquerda;
 	private No direita;
 	private No pai;
@@ -59,4 +58,6 @@ public class No {
 	public void setEsquerda(No esquerda) {
 		this.esquerda = esquerda;
 	}
+
+	
 }
